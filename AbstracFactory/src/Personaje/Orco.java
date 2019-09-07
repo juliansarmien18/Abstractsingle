@@ -1,0 +1,25 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package logica.personajes;
+
+
+public class Orco extends Personaje {
+    
+    @Override
+    public void setTipo(){
+        super.tipo = "Orco";
+    }
+    
+    @Override
+    public void setImgDir(){
+        super.img = "img/orco.png";
+    }
+    
+    public Orco(){
+        super.tipo = "Orco";
+        super.img = "img/orco.png";
+    }
+}
