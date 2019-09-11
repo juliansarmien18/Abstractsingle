@@ -1,4 +1,4 @@
-Demostracion singleton 
+Demostracion singleton y Abstract Factory
 
 
 Julian Sarmiento Linares-20181020042    
